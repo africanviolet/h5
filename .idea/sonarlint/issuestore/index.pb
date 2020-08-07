@@ -10,3 +10,5 @@ B
 js/index.js,d\7\d7a7cea160667b981d6978cbf7d682f8b4e73a25
 H
 sonar-project.properties,2\5\2538046035efb77ecc44e1fd2eec1e2641594d4c
+6
+123.js,d\8\d8f5ea7272c01d51059bdccef4bc7bd25a04d92e
